@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.testingwebapp.DsaacTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.707 s - in com.example.testingwebapp.DsaacTest
